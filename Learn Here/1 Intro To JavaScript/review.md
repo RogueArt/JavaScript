@@ -13,6 +13,5 @@
  - We can access properties and methods by using the `.`, dot operator.
  - Built-in objects, including `Math`, are collections of methods and properties that JavaScript provides.
 ---
-> Intoduction to JavaScript Cheatsheet!
-
-[Click Me!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) 
+# Resources
+[Intoduction to JavaScript Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) 
