@@ -16,6 +16,5 @@ Arrays can be nested inside other arrays.
 Learning how to work with and manipulate arrays will help you work with chunks of data!
 
 ---
-> Arrays Cheatsheet!
-
-[Click Me](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays/cheatsheet) 
+# Resources
+- [Arrays Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays/cheatsheet) 
