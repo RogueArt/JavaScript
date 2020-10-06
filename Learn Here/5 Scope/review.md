@@ -16,4 +16,4 @@ As you continue your coding journey, remember to use best practices when declari
 
 ---
 # Resources
-[Scopes Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/cheatsheet) 
+- [Scopes Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/cheatsheet) 
