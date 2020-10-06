@@ -1,7 +1,7 @@
 # Welcome to JavaScript!
 ![image](https://cdn.discordapp.com/attachments/720899012680613890/721519037607313459/Free_Courses_to_learn_JavaScript.jpg)
 # Introduction
- Last year, millions of students began their programming journey with JavaScript. Why JavaScript you ask? JavaScript is *the* language of modern web browsers. Over the last 20 years, JavaScript has become a powerful, flexible, and fast programming language that has many uses in web development, servers, desktops, and many other platforms.
+ Last year, millions of students began their programming journey with JavaScript. Why JavaScript you ask? JavaScript is *the* language of modern web browsers. Through twenty years of evolution, JavaScript has evolved into a powerful, flexible, and fast programming language with many uses in web development, servers, desktops, and many other platforms.
 
  Since JavaScript remains at the core of web development, it’s often the first language learned by self-taught coders eager to learn and build. We’re excited for what you’ll be able to create with the JavaScript foundation you'll gain here. In fact, the use of JavaScript is so prevalent, that it even powers the dynamic behavior of our own website!
 
