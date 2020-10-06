@@ -12,6 +12,4 @@ Here are some of the major concepts for conditionals:
 - The ternary operator is shorthand to simplify concise `if...else` statements.
 - A `switch` statement can be used to simplify the process of writing multiple `else if` statements. The `break` keyword stops the remaining `case`s from being checked and executed in a `switch` statement.
 ---
-> Conditionals Cheatsheet! 
-
-[Click Me](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet) 
+[Conditionals Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet) 
