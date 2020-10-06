@@ -15,6 +15,5 @@ Let’s review the following terms:
 As you continue your coding journey, remember to use best practices when declaring your variables! Scoping your variables tightly will ensure that your code has clean, organized, and modular logic.
 
 ---
-> Scopes Cheatsheet!
-
-[Click Me](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/cheatsheet) 
+# Resources
+[Scopes Cheatsheet!](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-scope/cheatsheet) 
